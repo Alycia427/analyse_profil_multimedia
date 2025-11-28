@@ -106,3 +106,4 @@ l’installation d’équipement (ex: sonore) et l’usage, lentement mais sûre
 ![carte mentale](carte_mentale.jpeg)
 
 ##  Diagramme de flux 
+![Diagramme de flux](diagramme-de-flux.jpeg)
