@@ -1,7 +1,13 @@
 # analyse_profil_multimedia
+Auteur: Alycia Brisebois
+
+date: 27/11/25
+
+**Présentation visuelle du profil multimédia individuel avec divers logiciels et outils de présentation**
 
 # Profil Multimédia (TP2)  
-Par: Alycia Brisebois 582-101 Domaines Multimédias
+
+582-101 Domaines Multimédias
 (session 1)
 
 # Pourquoi TIM?
@@ -83,12 +89,20 @@ l’installation d’équipement (ex: sonore) et l’usage, lentement mais sûre
 
 # Conclusion 
 
-**Profile hybride -> + créatif** 
+**Profile hybride -> + créatif +-technique**
+
+**Intérêt programme ->** la créativité démontrer dans le cadre de TIM, projets des enseignants + intégrité artistique des élèves 
+
+**Perspective avenir ->** la recherche d’une carrière à la fin du programme, choix prioritaire 
+
+
+**Autre voie ->** études universitaires 
+
 
 ## Moodboard
-
+![moodboard](moodboard.jpg)
 
 ## Carte mentale 
-
+![carte mentale](carte_mentale.jpeg)
 
 ##  Diagramme de flux 
