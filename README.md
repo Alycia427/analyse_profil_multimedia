@@ -85,9 +85,7 @@ l’installation d’équipement (ex: sonore) et l’usage, lentement mais sûre
 
 **Profile hybride -> + créatif** 
 
-
-
-## Moodboard 
+## Moodboard
 
 
 ## Carte mentale 
